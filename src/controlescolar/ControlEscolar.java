@@ -6,9 +6,12 @@
 
 package controlescolar;
 
+import java.util.Date;
+
+
 /**
  *
- * @author oscar
+ * @author Desarrollo01
  */
 public class ControlEscolar {
 
@@ -17,6 +20,14 @@ public class ControlEscolar {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Date d = new Date();
+    
+        Alumno alumno = new Alumno("oscar","cano","gonzalez", d);
+
+
+        System.out.println("Alumno: "+alumno.getNombre());
+
     }
     
 }
