@@ -8,7 +8,7 @@ package controlescolar;
 
 /**
  *
- * @author Desarrollo01
+ * @author Oscar Cano
  */
 public enum formaPago {
     
