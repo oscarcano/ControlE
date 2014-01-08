@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Desarrollo01
+ * @author Oscar Cano
  */
 public class Materia {
     public Integer clave;
