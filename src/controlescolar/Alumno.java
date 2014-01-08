@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * @author Desarrollo01
+ * @author Oscar Cano
  */
 public class Alumno extends Persona {
     public Integer Matricula;
