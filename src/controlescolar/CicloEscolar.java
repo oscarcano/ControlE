@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Desarrollo01
+ * @author Oscar Cano
  */
 public class CicloEscolar {
     public Integer clave;
